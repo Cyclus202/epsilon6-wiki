@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Home Page
 ---
+Logging in...
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Running security challenge...
+
+![[kill_agent.png]]
+
+Access authorized. Welcome, operative.
+
+This is the [[MTF Epsilon-6]] wiki, available to all operatives working under Epsilon-6. You will find everything you need here to aid in your duty as an operative.
