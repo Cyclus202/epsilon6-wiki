@@ -4,4 +4,5 @@ aliases:
   - SCPs
   - anomalies
   - anomaly
+  - anomalous
 ---

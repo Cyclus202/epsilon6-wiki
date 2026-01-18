@@ -1,0 +1,2 @@
+
+These guys are the antithesis to the Global Occult Coalition. They do not like the fact they kill all anomalies. They believe all anomalies should be free to do whatever they want because they are basically the PETA of the SCP universe.
