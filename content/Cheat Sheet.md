@@ -1,0 +1,1 @@
+Aka you cba to read the handbooks and memorize them

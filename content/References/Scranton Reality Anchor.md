@@ -4,3 +4,4 @@ aliases:
   - SRA
   - SRAs
 ---
+Devices that nullify reality-bending effects.
