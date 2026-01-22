@@ -2,6 +2,7 @@
 aliases:
   - the Foundation
   - The Foundation
+  - Foundation
 ---
 > Secure. Contain. Protect.
 > 

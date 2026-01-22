@@ -3,7 +3,7 @@ aliases:
   - MTF
   - MTFs
 ---
-**Mobile Task Forces** (**MTFs**) are an elite task force that is deployed to contain, combat, and/or protect anomalies and Groups of Interest. Each task force is made up of highly-trained Foundation operatives with skill sets valuable for the purpose of the MTF.
+**Mobile Task Forces** (**MTFs**) are an elite task force that is deployed to contain, combat, and/or protect anomalies and Groups of Interest. Each task force is made up of highly-trained [[SCP Foundation|Foundation]] operatives with skill sets valuable for the purpose of the MTF.
 
 MTFs come in many varieties. Some are simply for reconnaissance and intelligence gathering, some are for exploration of certain areas, while others are specifically geared towards forms of combat. Members are derived from special forces, intelligence agencies, and other highly trained and specialized organizations.
 

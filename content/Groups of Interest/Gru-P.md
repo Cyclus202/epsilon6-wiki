@@ -1,1 +1,2 @@
+[[Group of Interest]]
 Basically the Soviet anomalous division during World War II. They disbanded after the fall of the USSR, but there is a [[Neo-P|successor]].
